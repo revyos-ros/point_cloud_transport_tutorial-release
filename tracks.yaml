@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/point_cloud_transport_tutorial-release
 tracks:
   jazzy:
     actions:
